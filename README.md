@@ -7,7 +7,7 @@ Processo de seleção de candidatos para a vaga de Programador Pleno
 - 1 vaga para Programador Pleno;
 - Salário: Conforme convencão coletiva SEACEC.
 - Benefícios: Vale alimentação
-- Carga horária: 40 horas semanais- Carga horária: 40 horas semanais.
+- Carga horária: 40 horas semanais.
 - Horário: 08:00 às 17:00.
 - Provável Início: Fevereiro/2020.
  
